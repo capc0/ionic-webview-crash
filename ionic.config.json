@@ -1,0 +1,7 @@
+{
+  "name": "webview-crash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
